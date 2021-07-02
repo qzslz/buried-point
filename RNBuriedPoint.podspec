@@ -14,8 +14,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/qzslz/buried-point.git", :tag => "master" }
   s.source_files  = "ios/**/*.{h,m,xib}"
   s.requires_arc = true
-  s.
-
 
   s.dependency "React"
   s.dependency "Masonry"
