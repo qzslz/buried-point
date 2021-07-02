@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+drawable drawable_cover
+drawable selected_bury_btn
+drawable selected_cover_bg

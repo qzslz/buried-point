@@ -1,0 +1,18 @@
+{
+  "name": "react-native-buried-point",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "buyu",
+  "homepage": "https://github.com/qzslz/buried-point.git",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
